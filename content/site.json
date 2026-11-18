@@ -1,0 +1,481 @@
+{
+  "comp": [
+    {
+      "slug": "impianti-elettrici",
+      "name": "Impianti elettrici civili e industriali",
+      "short": "Impianti elettrici",
+      "img": "assemblaggio",
+      "gallery": [
+        "interruttori",
+        "tecnico-quadro",
+        "cavi"
+      ],
+      "lead": "Impianti elettrici in media e bassa tensione per capannoni, uffici, negozi e case, dal progetto al collaudo.",
+      "intro": "Un impianto elettrico va pensato per come l'edificio verrà usato: quante macchine, quali orari, cosa non può mai fermarsi. Realizziamo impianti nuovi, ampliamenti e rifacimenti, organizzando il cantiere in modo che l'attività possa continuare a lavorare.",
+      "items": [
+        [
+          "Cabine di media tensione",
+          "Cabine di consegna e trasformazione per stabilimenti e grandi utenze."
+        ],
+        [
+          "Quadri di bassa tensione",
+          "Quadri di distribuzione e di comando, progettati e cablati da noi."
+        ],
+        [
+          "Linee e distribuzione",
+          "Dorsali, canalizzazioni e linee per reparti, uffici e aree esterne."
+        ],
+        [
+          "Continuità ed emergenza",
+          "Gruppi elettrogeni e UPS per le utenze che non possono restare senza corrente."
+        ],
+        [
+          "Illuminazione",
+          "Luce ordinaria, esterna e di sicurezza."
+        ],
+        [
+          "Impianti civili",
+          "Case, uffici e negozi, anche in ristrutturazione."
+        ]
+      ],
+      "works": [
+        "stabilimento-assemblaggio",
+        "torre-uffici",
+        "residenza-anziani"
+      ]
+    },
+    {
+      "slug": "illuminazione",
+      "name": "Illuminazione e illuminotecnica",
+      "short": "Illuminazione",
+      "img": "palestra",
+      "gallery": [],
+      "lead": "Progetti della luce e impianti di illuminazione per spazi pubblici, impianti sportivi, industria e uffici.",
+      "intro": "La luce giusta rende un posto più sicuro e più piacevole da vivere. Facciamo il calcolo illuminotecnico, scegliamo gli apparecchi e realizziamo l'impianto, per strade e ponti, palestre, reparti produttivi e ambienti di lavoro.",
+      "items": [
+        [
+          "Progetti illuminotecnici",
+          "Calcoli, scelta degli apparecchi e simulazioni per ogni ambiente."
+        ],
+        [
+          "Illuminazione pubblica",
+          "Strade, piazze e percorsi pedonali."
+        ],
+        [
+          "Architetturale",
+          "Ponti, facciate ed edifici da valorizzare di notte."
+        ],
+        [
+          "Impianti sportivi",
+          "Palestre e campi, con livelli di luce adatti all'attività."
+        ],
+        [
+          "Emergenza e sicurezza",
+          "Lampade di emergenza e illuminazione di sicurezza."
+        ],
+        [
+          "Industria",
+          "Reparti, magazzini e piazzali."
+        ]
+      ],
+      "works": [
+        "passerella-torrente",
+        "palestra-comunale",
+        "torre-uffici"
+      ]
+    },
+    {
+      "slug": "fotovoltaico",
+      "name": "Impianti fotovoltaici",
+      "short": "Fotovoltaico",
+      "img": "fv-capannone",
+      "gallery": [
+        "fv-posa",
+        "fv-dettaglio"
+      ],
+      "lead": "Fotovoltaico per aziende e famiglie, dal sopralluogo all'allaccio. Lo installiamo dal 2009.",
+      "intro": "Partiamo dai consumi e dallo spazio disponibile, sul tetto o a terra. Dimensioniamo l'impianto, lo installiamo e lo colleghiamo all'impianto elettrico che c'è già, compresa la cabina in media tensione quando serve.",
+      "items": [
+        [
+          "Analisi preliminare",
+          "Consumi, coperture e aree disponibili."
+        ],
+        [
+          "Progettazione",
+          "Dimensionamento e scelta di moduli e inverter."
+        ],
+        [
+          "Installazione",
+          "Posa dei moduli, inverter e collegamenti, in sicurezza."
+        ],
+        [
+          "A terra e su copertura",
+          "Tetti di capannoni e case, campi a terra."
+        ],
+        [
+          "Cabine di trasformazione",
+          "Allaccio in media tensione per gli impianti più grandi."
+        ],
+        [
+          "Manutenzione",
+          "Controlli periodici per tenere alta la resa."
+        ]
+      ],
+      "works": [
+        "campo-fotovoltaico",
+        "fotovoltaico-capannone"
+      ]
+    },
+    {
+      "slug": "domotica",
+      "name": "Impianti domotici",
+      "short": "Domotica",
+      "img": "quadro-industriale",
+      "gallery": [
+        "termostato",
+        "interruttori"
+      ],
+      "lead": "Automazione di luci, clima, tapparelle e accessi, comandata da un unico sistema.",
+      "intro": "Con la domotica luci, temperatura, tapparelle, accessi e consumi rispondono a un solo sistema: pannelli, scenari a orario e controllo da remoto. La progettiamo insieme all'impianto elettrico, per case, uffici e attività.",
+      "items": [
+        [
+          "Luci e scenari",
+          "Comandi, regolazioni e scenari per stanze e orari."
+        ],
+        [
+          "Clima e consumi",
+          "Riscaldamento, raffrescamento e carichi sotto controllo."
+        ],
+        [
+          "Accessi e automazioni",
+          "Tapparelle, cancelli e porte coordinati."
+        ],
+        [
+          "Controllo da remoto",
+          "Comandi a distanza e avvisi in caso di anomalia."
+        ]
+      ],
+      "works": [
+        "torre-uffici"
+      ]
+    },
+    {
+      "slug": "sicurezza",
+      "name": "Sicurezza e videosorveglianza",
+      "short": "Sicurezza",
+      "img": "telecamere-muro",
+      "gallery": [],
+      "lead": "Videosorveglianza, allarmi e controllo accessi per aziende, negozi e case.",
+      "intro": "Prima guardiamo gli spazi: ingressi, zone buie, orari in cui l'edificio resta vuoto. Poi realizziamo videosorveglianza, antintrusione e controllo accessi collegati all'impianto elettrico.",
+      "items": [
+        [
+          "Videosorveglianza",
+          "Telecamere interne ed esterne, con registrazione e visione da remoto."
+        ],
+        [
+          "Antintrusione",
+          "Allarmi per perimetro, porte e locali."
+        ],
+        [
+          "Controllo accessi",
+          "Badge e varchi per aziende e strutture."
+        ],
+        [
+          "Integrazione",
+          "Sicurezza collegata a luci e automazioni."
+        ]
+      ],
+      "works": [
+        "palestra-comunale",
+        "stabilimento-assemblaggio"
+      ]
+    },
+    {
+      "slug": "antincendio",
+      "name": "Rivelazione fumi e antincendio",
+      "short": "Antincendio",
+      "img": "residenza",
+      "gallery": [],
+      "lead": "Rivelazione incendi e impianti al servizio dell'antincendio per edifici industriali, pubblici e uffici.",
+      "intro": "Un incendio va scoperto presto e segnalato a tutti. Installiamo rivelatori di fumo, anche lineari per i locali molto alti, pulsanti, sirene e centrali, e gli impianti elettrici dei gruppi di pompaggio.",
+      "items": [
+        [
+          "Rivelazione fumi",
+          "Rivelatori puntiformi e lineari."
+        ],
+        [
+          "Allarme e segnalazione",
+          "Pulsanti, sirene e pannelli ottico-acustici."
+        ],
+        [
+          "Centrali di controllo",
+          "Gestione e supervisione dell'impianto."
+        ],
+        [
+          "Pompaggio antincendio",
+          "Alimentazione dei gruppi di pompaggio e dei servizi di sicurezza."
+        ]
+      ],
+      "works": [
+        "residenza-anziani",
+        "carpenteria-pesante",
+        "torre-uffici"
+      ]
+    },
+    {
+      "slug": "diffusione-sonora",
+      "name": "Diffusione sonora",
+      "short": "Diffusione sonora",
+      "img": "diffusore",
+      "gallery": [
+        "palestra",
+        "uffici"
+      ],
+      "lead": "Impianti audio per annunci, musica e messaggi di evacuazione in edifici pubblici e privati.",
+      "intro": "Un annuncio serve solo se arriva chiaro dove deve arrivare. Progettiamo impianti per avvisi, musica d'ambiente e messaggi di emergenza in uffici, negozi, palestre e spazi aperti al pubblico.",
+      "items": [
+        [
+          "Annunci a zone",
+          "Avvisi per reparti, uffici e spazi pubblici."
+        ],
+        [
+          "Musica d'ambiente",
+          "Volume uniforme e regolabile per zone."
+        ],
+        [
+          "Evacuazione",
+          "Messaggi di emergenza collegati alla sicurezza dell'edificio."
+        ],
+        [
+          "Spazi esterni",
+          "Impianti sportivi e aree all'aperto."
+        ]
+      ],
+      "works": [
+        "residenza-anziani",
+        "palestra-comunale"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "slug": "passerella-torrente",
+      "name": "Passerella sul torrente",
+      "img": "passerella",
+      "cat": "Pubblico",
+      "place": "Rocca Tessera",
+      "year": "2021",
+      "items": [
+        "Illuminazione LED della passerella e delle funi",
+        "Quadro di comando con accensione crepuscolare",
+        "Linee interrate di alimentazione"
+      ],
+      "text": "Una passerella pedonale che di notte restava al buio. Abbiamo illuminato impalcato e funi con apparecchi LED a basso consumo, comandati da un quadro con sensore crepuscolare.",
+      "comp": [
+        "illuminazione",
+        "impianti-elettrici"
+      ]
+    },
+    {
+      "slug": "stabilimento-assemblaggio",
+      "name": "Stabilimento di assemblaggio",
+      "img": "assemblaggio",
+      "cat": "Industria",
+      "place": "Zona industriale, Rocca Tessera",
+      "year": "2019–2020",
+      "items": [
+        "Cabina di media tensione",
+        "Quadri BT di reparto",
+        "Alimentazione delle linee di montaggio",
+        "Gruppo di continuità",
+        "Videosorveglianza dei piazzali"
+      ],
+      "text": "Un nuovo reparto con linee di montaggio automatiche. Dalla cabina di media tensione ai quadri di reparto, fino all'alimentazione delle singole linee, con i lavori organizzati sui fermi programmati.",
+      "comp": [
+        "impianti-elettrici",
+        "sicurezza"
+      ]
+    },
+    {
+      "slug": "carpenteria-pesante",
+      "name": "Carpenteria pesante",
+      "img": "carpenteria",
+      "cat": "Industria",
+      "place": "Piemonte",
+      "year": "Dal 2014",
+      "items": [
+        "Quadri BT e sottoquadri",
+        "Dorsali di alimentazione dei carriponte",
+        "Illuminazione dei capannoni",
+        "Rivelazione fumi",
+        "Manutenzione programmata"
+      ],
+      "text": "Capannoni alti, carriponte e macchine che lavorano su due turni. Seguiamo l'impianto da anni: nuove linee quando cambia il layout, illuminazione dei reparti, rivelazione fumi e manutenzione.",
+      "comp": [
+        "impianti-elettrici",
+        "antincendio"
+      ]
+    },
+    {
+      "slug": "torre-uffici",
+      "name": "Palazzina uffici",
+      "img": "torre-uffici",
+      "cat": "Civile e terziario",
+      "place": "Piemonte",
+      "year": "2022",
+      "items": [
+        "Quadri generali e di piano",
+        "Dorsali verticali",
+        "UPS per sale server",
+        "Domotica di luci e tende",
+        "Rivelazione fumi"
+      ],
+      "text": "Un edificio per uffici su più piani. Abbiamo realizzato quadri e dorsali di piano, la continuità per le sale server e la domotica che gestisce luci e tende secondo l'orario e la luce esterna.",
+      "comp": [
+        "impianti-elettrici",
+        "domotica",
+        "antincendio"
+      ]
+    },
+    {
+      "slug": "campo-fotovoltaico",
+      "name": "Campo fotovoltaico a terra",
+      "img": "campo-fv",
+      "cat": "Fotovoltaico",
+      "place": "Piemonte",
+      "year": "2012",
+      "items": [
+        "Impianto fotovoltaico a terra con inverter centralizzati",
+        "Cabina di trasformazione MT"
+      ],
+      "text": "Un campo fotovoltaico su un terreno agricolo non più coltivato, completo di inverter e della cabina in media tensione per l'allaccio alla rete.",
+      "comp": [
+        "fotovoltaico",
+        "impianti-elettrici"
+      ],
+      "summary": "Campo a terra con cabina MT"
+    },
+    {
+      "slug": "fotovoltaico-capannone",
+      "name": "Fotovoltaico su capannone",
+      "img": "fv-capannone",
+      "cat": "Fotovoltaico",
+      "place": "Zona industriale, Rocca Tessera",
+      "year": "2023",
+      "items": [
+        "Impianto fotovoltaico in copertura",
+        "Inverter di stringa",
+        "Adeguamento del quadro generale"
+      ],
+      "text": "Un impianto sul tetto di un capannone produttivo, dimensionato sui consumi diurni dell'azienda. Abbiamo adeguato il quadro generale per collegarlo senza fermare la produzione.",
+      "comp": [
+        "fotovoltaico",
+        "impianti-elettrici"
+      ],
+      "summary": "Fotovoltaico in copertura"
+    },
+    {
+      "slug": "residenza-anziani",
+      "name": "Residenza per anziani",
+      "img": "residenza",
+      "cat": "Pubblico",
+      "place": "Rocca Tessera",
+      "year": "2018",
+      "items": [
+        "Linee luce normale, emergenza e forza motrice",
+        "Impianto di chiamata dalle camere",
+        "Rivelazione fumi",
+        "Diffusione sonora per l'evacuazione"
+      ],
+      "text": "Una struttura dove continuità e sicurezza vengono prima di tutto: linee normali e di emergenza, chiamata dalle camere, rivelazione fumi e messaggi di evacuazione in ogni zona.",
+      "comp": [
+        "impianti-elettrici",
+        "antincendio",
+        "diffusione-sonora"
+      ]
+    },
+    {
+      "slug": "palestra-comunale",
+      "name": "Palestra comunale",
+      "img": "palestra",
+      "cat": "Pubblico",
+      "place": "Rocca Tessera",
+      "year": "2020",
+      "items": [
+        "Illuminazione LED del campo",
+        "Diffusione sonora per annunci",
+        "Videosorveglianza degli ingressi",
+        "Nuovo quadro elettrico"
+      ],
+      "text": "La palestra usata da scuole e società sportive. Abbiamo sostituito l'illuminazione con apparecchi LED, aggiunto un impianto per gli annunci e le telecamere sugli ingressi.",
+      "comp": [
+        "illuminazione",
+        "diffusione-sonora",
+        "sicurezza"
+      ]
+    }
+  ],
+  "clients": [
+    [
+      "Industria",
+      [
+        "Lavorazioni meccaniche",
+        "Carpenteria",
+        "Assemblaggio",
+        "Logistica"
+      ]
+    ],
+    [
+      "Terziario",
+      [
+        "Uffici",
+        "Negozi",
+        "Banche",
+        "Studi professionali"
+      ]
+    ],
+    [
+      "Enti pubblici",
+      [
+        "Comuni",
+        "Scuole e palestre",
+        "Illuminazione pubblica"
+      ]
+    ],
+    [
+      "Sanità e assistenza",
+      [
+        "Residenze per anziani",
+        "Ambulatori"
+      ]
+    ],
+    [
+      "Edilizia",
+      [
+        "Imprese edili",
+        "Studi di progettazione"
+      ]
+    ],
+    [
+      "Privati",
+      [
+        "Case",
+        "Condomini"
+      ]
+    ]
+  ],
+  "certs": [
+    [
+      "DM 37/2008",
+      "Abilitazione all'installazione di impianti elettrici, elettronici, di protezione dalle scariche atmosferiche e antincendio"
+    ],
+    [
+      "CEI 11-27",
+      "Tecnici formati come persone esperte e avvisate (PES e PAV) per i lavori elettrici"
+    ],
+    [
+      "FER",
+      "Installatori qualificati per impianti a fonti rinnovabili"
+    ]
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "assemblaggio": [
+    2000,
+    1334
+  ],
+  "campo-fv": [
+    2000,
+    1331
+  ],
+  "carpenteria": [
+    2000,
+    1329
+  ],
+  "cavi": [
+    2000,
+    1333
+  ],
+  "diffusore": [
+    2000,
+    1499
+  ],
+  "domotica-hub": [
+    2000,
+    1333
+  ],
+  "fv-capannone": [
+    2000,
+    1333
+  ],
+  "fv-dettaglio": [
+    1333,
+    2000
+  ],
+  "fv-posa": [
+    2000,
+    1500
+  ],
+  "interruttori": [
+    2000,
+    1500
+  ],
+  "magazzino": [
+    1500,
+    2000
+  ],
+  "palestra": [
+    2000,
+    1126
+  ],
+  "passerella": [
+    2000,
+    1333
+  ],
+  "pulsante-allarme": [
+    2000,
+    1333
+  ],
+  "quadro-industriale": [
+    1333,
+    2000
+  ],
+  "residenza": [
+    2000,
+    1500
+  ],
+  "rilevatori": [
+    1125,
+    2000
+  ],
+  "schema": [
+    2000,
+    1333
+  ],
+  "sede": [
+    1333,
+    2000
+  ],
+  "tecnico-quadro": [
+    2000,
+    1500
+  ],
+  "telecamere-muro": [
+    2000,
+    1334
+  ],
+  "termostato": [
+    2000,
+    1334
+  ],
+  "torre-uffici": [
+    1333,
+    2000
+  ],
+  "uffici": [
+    1383,
+    2000
+  ]
+}
